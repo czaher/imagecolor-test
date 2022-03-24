@@ -1,6 +1,5 @@
 import React from 'react'
 import './App.css'
-import Image from './Image'
 import ColorPalette from './ColorPalette'
 
 export default function App() {
